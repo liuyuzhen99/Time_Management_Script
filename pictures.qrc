@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="title">
+    <file>Audi FAW Logo_Horizontal.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>10692.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>vivid-blurred-colorful-wallpaper-background.jpg</file>
+    <file>white-concrete-wall.jpg</file>
+  </qresource>
+</RCC>
