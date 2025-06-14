@@ -27,3 +27,6 @@ based on above file to generate clock info for each staff, and support to check 
 5. BiDirectionalMap.py: create a BidirectionalMap used for search index and staff code 创建BidirectionalMap可以使用员工号快速搜索索引，也可以使用索引快速搜索员工号
 6. bindClass.py(main logic): read the uploaded file and process the file, generate the result finally 读取上传的文件并处理，最终生成结果
 7. excel2ppt_qt.py: "front end" logic, define the function when click the button and show error message 界面，按钮函数，展示异常
+
+## run运行
+dist/TaAMS_v1.2.2.exe
